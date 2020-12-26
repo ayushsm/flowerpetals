@@ -1,0 +1,1 @@
+This project is centered around the idea of political gerrymandering and creating non-partisan congressional districts. Inspired by Ian Shapiro's comments on flower petal districts having reps be more cognizant of both urban and rural voters (and by extension, both liberal and conservative voters) in his Politics and Power lecture series on YouTube (hosted by Yale).
