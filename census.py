@@ -7,7 +7,7 @@ import requests
 import tabula
 
 def chloropleth(df):
-    fig = plotly.figure_factory.create_chloropleth(scope=["CA"], simplify_county=0, simplify_state=0, )
+    fig = plotly.figure_factory.create_chloropleth(fips=["06001"], binning_endpoints=[10000], scope=["CA"], simplify_county=0, simplify_state=0)
 
 def dataCreation(state):
     # Get the current year
